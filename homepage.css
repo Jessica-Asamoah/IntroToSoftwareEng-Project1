@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arvo', serif;
+    background-color: #dbe9ee;
+}
+.header {
+    margin-top:20px;
+    text-align: center;
+}
+/* h1 { */
+    /* font-size:large ; */
+/* } */
+#message {
+    background-color: seashell;
+    margin: 2% auto;
+    width:50%;
+    height:400px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    display:flex;
+}
+img {
+    width:200px;
+    height:200px;
+}
+p {
+    text-align: center;
+}
+#footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#F8F9FA;
+    color: #63707C;
+    text-align: center;
+}
