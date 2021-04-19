@@ -21,7 +21,7 @@
 
 <body class="bg">
     <header>
-        <h1 id="brandname">New Creation Assembly</h1>
+        <h1 id="brandname">New Creation Church</h1>
         <h5>To proceed please Sign Up.</h5>
     </header>
     <section id="uregis">
